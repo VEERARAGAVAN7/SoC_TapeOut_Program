@@ -1,0 +1,14 @@
+# Simulation/build artifacts
+*.vcd
+*.o
+*.out
+*.log
+
+# Editors / OS
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
