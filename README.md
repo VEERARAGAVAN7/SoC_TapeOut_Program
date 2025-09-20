@@ -4,7 +4,6 @@
 
 ![RISC-V](https://img.shields.io/badge/RISC--V-SoC%20Tapeout-blue?style=for-the-badge&logo=riscv)
 ![VSD](https://img.shields.io/badge/VSD-Program-orange?style=for-the-badge)
-![Participants](https://img.shields.io/badge/Participants-3500+-success?style=for-the-badge)
 ![India](https://img.shields.io/badge/Made%20in-India-saffron?style=for-the-badge)
 
 </div>
